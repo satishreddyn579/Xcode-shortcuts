@@ -1,4 +1,4 @@
-# swift-shortcuts
+# Xcode - shortcuts
 
 # File
 1. Open any file: **Cmd + Shift + O**
