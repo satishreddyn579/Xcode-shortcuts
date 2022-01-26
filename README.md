@@ -7,10 +7,22 @@
 4. Move to Top of file : **Cmd + UpArrow**
 5. Move to Down of file : **Cmd + DownArrow**
 
-
-
 # Font
-1. Change the font size: **Cmd + _+_**(Increase)  and **Cmd + _-_**(Decrease)
+Change the font size: **Cmd + _+_**(Increase)  and **Cmd + _-_**(Decrease)
 
 # Indenetation
-1. Selected  lines indenetation **Cntl + i**
+Selected  lines indenetation **Cntl + i**
+
+# Debug Area
+Hide/Show Debug area **Cmd + Shift + Y**
+
+# Open Navigatior
+1. Project: **Cmd + 1**
+2. Source Control: **Cmd + 2**
+3. Symbol: **Cmd + 3**
+4. Find: **Cmd + 4**
+5. Issue: **Cmd + 5**
+6. Test: **Cmd + 6**
+7. Debug: **Cmd + 7**
+8. Break points: **Cmd + 8**
+9. Source Control: **Cmd + 9**
