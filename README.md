@@ -26,4 +26,5 @@ Hide/Show Debug area **Cmd + Shift + Y**
 7. Debug: **Cmd + 7**
 8. Break points: **Cmd + 8**
 9. Source Control: **Cmd + 9**
+
 *To show/hide navigator: **Cmd + 0**
